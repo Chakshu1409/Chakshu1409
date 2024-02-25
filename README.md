@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chakshu</h1>
-<h3 align="center">A passionate Web developer</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/d1/b7/e1d1b7f73d4f26fed4445abea76b09da.gif">
+<br>
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/GYny.gif">
 
 <p align="left"> <a href="https://twitter.com/Chakshu1409" target="blank"><img src="https://img.shields.io/twitter/follow/Chakshu1409?logo=twitter&style=for-the-badge" alt="Chakshu1409" /></a> </p>
 
