@@ -4,6 +4,7 @@
 
 - 💬 Got an interesting idea? **Let's discuss it over a cup of coffee**
 - 📫 How to reach me **chakshujhamb@gmail.com**
+- 📫 Want to know me beyond code, Check out my **Notion page** here: [My Personal Life & Thoughts](https://glory-stool-674.notion.site/1e6b2ce440b48056881df5ffffaeb26d?v=1e6b2ce440b48169b1f1000c1be83f9c)
 
 ### 🧠 Want to know me beyond code?
 Check out my **Notion page** here: [My Personal Life & Thoughts](https://glory-stool-674.notion.site/1e6b2ce440b48056881df5ffffaeb26d?v=1e6b2ce440b48169b1f1000c1be83f9c)  
