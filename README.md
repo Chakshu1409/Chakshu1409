@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chakshu</h1>
 <br>
-<img align="right" alt="Coding" width="300" src="https://i.gifer.com/GYny.gif">
 
 - 💬 Got an interesting idea? **Let's discuss it over a cup of coffee**
 - 📫 How to reach me **chakshujhamb@gmail.com**
